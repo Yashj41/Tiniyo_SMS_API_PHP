@@ -127,7 +127,7 @@
 <div><span face="Roboto, sans-serif"><span style="font-size: large;"><br /></span></span></div>
 <div>
   <span face="Roboto, sans-serif">
-    <div class="separator" style="clear: both; text-align: center;"><a href="msgimage.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2340" data-original-width="1080" height="761" src="msgimage.jpg" style="border: 1px solid black;" width="352" /></a></div>
+    <div class="separator" style="clear: both; text-align: center;"><a href="msgimage.jpg"><img border="0" data-original-height="2340" data-original-width="1080" height="761" src="msgimage.jpg" style="border: 1px solid black;" width="352" /></a></div>
     <div class="separator" style="clear: both; text-align: center;"><br /></div>
   </span>
   <span style="background-color: white; color: #0d112b; font-family: arial; font-size: medium; letter-spacing: -0.16px;">That's it, you've sent an SMS message using PHP and Tiniyo API.</span>
